@@ -1,0 +1,7 @@
+C:\Users\badob\source\repos\sample-matrix\sample-matrix\bin\Debug\sample-matrix.exe.config
+C:\Users\badob\source\repos\sample-matrix\sample-matrix\bin\Debug\sample-matrix.exe
+C:\Users\badob\source\repos\sample-matrix\sample-matrix\bin\Debug\sample-matrix.pdb
+C:\Users\badob\source\repos\sample-matrix\sample-matrix\obj\Debug\sample-matrix.csproj.AssemblyReference.cache
+C:\Users\badob\source\repos\sample-matrix\sample-matrix\obj\Debug\sample-matrix.csproj.CoreCompileInputs.cache
+C:\Users\badob\source\repos\sample-matrix\sample-matrix\obj\Debug\sample-matrix.exe
+C:\Users\badob\source\repos\sample-matrix\sample-matrix\obj\Debug\sample-matrix.pdb
